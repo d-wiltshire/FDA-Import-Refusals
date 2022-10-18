@@ -13,6 +13,10 @@ The full dataset as it is presented on that site, along with the reference guide
 
 The "full" dataset is available for download, but it is clear from the filters and visualizations included on https://datadashboard.fda.gov/ora/cd/imprefusals.htm that there is additional information that is not included in the downloadable dataset, namely the categorization by product type. However, it is possible to download filtered datasets by product type. Therefore one goal in reconstructing the full dataset will be to add a column 'Product Type' with the information from the filtered data.
 
-## Multiple types of information contained in one column
+### Multiple types of information contained in one column
 
 In several instances, multiple data points are stored in one column. These will need to be extracted for more effective use.
+
+### Refusal Charges
+
+The Refusal Charges Reference will need to be merged with the main dataset for more informative visualizations.
