@@ -7,7 +7,7 @@ The Import Refusals compliance dashboard can be found here: https://datadashboar
 
 The full dataset as it is presented on that site, along with the reference guide for the column "Section Charges," are included in the Resources folder here.
 
-## Issues
+## Challenges
 
 ### Incomplete information
 
