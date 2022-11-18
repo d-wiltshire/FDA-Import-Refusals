@@ -1,5 +1,6 @@
 # FDA-Import-Refusals
-Work in progress
+
+*Work in progress*
 
 In this repository, I will use the ETL process to transform the FDA Compliance Dashboard dataset "Import Refusals" for use in visualization in Tableau and/or Power BI.
 
