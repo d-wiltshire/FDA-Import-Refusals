@@ -2,7 +2,7 @@
 
 *Work in progress*
 
-In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals" for use in visualization in Tableau and/or Power BI.
+In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals" to create visualizations in a dashboard in Power BI.
 
 The Import Refusals compliance dashboard can be found here: https://datadashboard.fda.gov/ora/cd/imprefusals.htm
 
