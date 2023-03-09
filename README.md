@@ -2,9 +2,9 @@
 
 *Work in progress*
 
-In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals" to create visualizations in a dashboard in Power BI.
+In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals". The goal of this repository is cleaning the data in order to visualize options not currently found in the existing Compliance Dashboard.
 
-The Import Refusals compliance dashboard can be found here: https://datadashboard.fda.gov/ora/cd/imprefusals.htm
+The Import Refusals compliance dashboard (with visualizations) can be found here: https://datadashboard.fda.gov/ora/cd/imprefusals.htm
 
 The full dataset as it is presented on that site, along with the reference guide for the column "Section Charges," are included in the Resources folder here.
 
