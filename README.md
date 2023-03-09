@@ -2,7 +2,7 @@
 
 *Work in progress*
 
-In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals". The goal of this repository is cleaning the data in order to visualize options not currently found in the existing Compliance Dashboard.
+In this repository, I will use the ETL process (in Python/Jupyter Notebooks) to transform the FDA Compliance Dashboard dataset "Import Refusals". The goal of this repository is cleaning the data in order to ask the data specific questions that are not readily available from the existing dashboard.
 
 The Import Refusals compliance dashboard (with visualizations) can be found here: https://datadashboard.fda.gov/ora/cd/imprefusals.htm
 
