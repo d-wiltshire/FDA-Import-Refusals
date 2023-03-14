@@ -21,3 +21,8 @@ In several instances, multiple data points are stored in one column. These will 
 ### Refusal Charges
 
 The Refusal Charges Reference will need to be merged with the main dataset for more informative visualizations.
+
+## Techniques
+
+
+## Dashboards and Data
